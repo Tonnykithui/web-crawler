@@ -1,0 +1,16 @@
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojAssemblyReference.cache
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.App.config
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Tonny\source\repos\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
